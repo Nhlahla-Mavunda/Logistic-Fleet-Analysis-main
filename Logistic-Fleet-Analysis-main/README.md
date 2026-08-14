@@ -159,7 +159,4 @@ Downtime hours and maintenance spend should be tracked as leading indicators of 
 
 ## Author
 
-**Refilwe Molelu** — Business Intelligence Analyst
-
-- Portfolio: [refilwe-molelu.netlify.app](https://refilwe-molelu.netlify.app)
-- LinkedIn: [linkedin.com/in/refilwe-molelu-713379241](https://www.linkedin.com/in/refilwe-molelu-713379241)# Logistic-Fleet-Analysis
+mavunda nhlahla
